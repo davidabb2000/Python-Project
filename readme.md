@@ -8,17 +8,24 @@ gestion-info/
 │  └─ records.json                # o registros.csv / registros.txt
 └─ src/
       ├─ main.py                    # punto de entrada
-      ├─ menu.py                    # interfaz de consola (UI)
-      ├─ service.py                 # lógica (CRUD)
-      ├─ file.py                    # persistencia (leer/guardar)
-      ├─ validate.py                # validaciones y helpers
-      └─ integration.py             # faker / pandas / requests 
+      ├─ menu.py                    # interfaz de consola
+      ├─ service.py                 # CRUD
+      ├─ file.py                    # leer y guardar
+      ├─ validate.py                # validaciones
+      └─ integration.py             # faker
 
 # Instalacion
-Pasos claros para configurar el entorno y ejecutar el proyecto
+1. Asegúrate de tener Python 3.8+ instalado.
+2. Clona o descarga el proyecto.
+3. Instala las dependencias: `pip install -r requirements.txt`
+4. Ejecuta el programa: `python src/main.py`
 
 # Uso
-Ejemplos de como utilizar la aplicacion o biblioteca
+Ejecuta el programa y selecciona las opciones del menú:
+- Crear, listar, buscar, actualizar o eliminar registros.
+- Generar registros falsos usando Faker (opción 6).
+
+Los registros se almacenan en `data/records.json`.
 
 # Creditos/Autores
 Quien mantiene el proyecto y contribuciones

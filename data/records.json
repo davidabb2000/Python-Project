@@ -5,5 +5,75 @@
         "email": "davidabb2000@gmail.com",
         "age": 17,
         "status": "soltero"
+    },
+    {
+        "id": "53C3AE03",
+        "name": "Javiera Ricart Serrano",
+        "email": "borja68@example.org",
+        "age": 66,
+        "status": "soltero"
+    },
+    {
+        "id": "0183B698",
+        "name": "Heliodoro Morales Alberdi",
+        "email": "ledesmamalena@example.net",
+        "age": 58,
+        "status": "casado"
+    },
+    {
+        "id": "6A322E31",
+        "name": "Reyna Valencia Castells",
+        "email": "omar16@example.net",
+        "age": 62,
+        "status": "viudo"
+    },
+    {
+        "id": "EBC474C7",
+        "name": "Dimas Armengol",
+        "email": "severoferrandez@example.net",
+        "age": 37,
+        "status": "divorciado"
+    },
+    {
+        "id": "9529B3DD",
+        "name": "Jeremías del Bayón",
+        "email": "benigno44@example.com",
+        "age": 59,
+        "status": "divorciado"
+    },
+    {
+        "id": "5E0FC9E9",
+        "name": "Cristian Palomo Solís",
+        "email": "carmelallobet@example.net",
+        "age": 22,
+        "status": "soltero"
+    },
+    {
+        "id": "493C4FFF",
+        "name": "Benigna Otilia Solé Aguilar",
+        "email": "robertohernandez@example.org",
+        "age": 76,
+        "status": "viudo"
+    },
+    {
+        "id": "EDCF0B84",
+        "name": "Dora María Ángeles Mínguez Serna",
+        "email": "nmenendez@example.net",
+        "age": 28,
+        "status": "viudo"
+    },
+    {
+        "id": "174C421D",
+        "name": "Ariadna Escudero León",
+        "email": "fabioguitart@example.org",
+        "age": 53,
+        "status": "divorciado"
+    },
+    {
+        "id": "5691B53F",
+        "name": "Ofelia Piñeiro Monreal",
+        "email": "azaharacamps@example.com",
+        "age": 45,
+        "status": "divorciado"
     }
 ]
