@@ -20,6 +20,13 @@ gestion-info/
 3. Instala las dependencias: `pip install -r requirements.txt`
 4. Ejecuta el programa: `python src/main.py`
 
+# Pruebas
+Para ejecutar las pruebas, usa:
+```
+python -m pytest tests/
+```
+Asegúrate de tener pytest instalado (incluido en requirements.txt).
+
 # Uso
 Ejecuta el programa y selecciona las opciones del menú:
 - Crear, listar, buscar, actualizar o eliminar registros.

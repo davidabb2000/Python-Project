@@ -75,5 +75,12 @@
         "email": "azaharacamps@example.com",
         "age": 45,
         "status": "divorciado"
+    },
+    {
+        "id": "C6811D5C",
+        "name": "Severino Saura",
+        "email": "molinajennifer@example.com",
+        "age": 22,
+        "status": "soltero"
     }
 ]
